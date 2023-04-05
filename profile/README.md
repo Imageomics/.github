@@ -17,7 +17,12 @@ The inception and research of the Imageomics Institute builds heavily on the "Bi
 Due to the history (see above) and highly collaborative and cross-disciplinary nature of the Institute, important software products and other code repositories are distributed over several organizations in GitHub, in addition to the ones found here. The following gives an overview and useful links.
 
 - [BGNN](https://github.com/hdr-bgnn)
-    * ...
+    * [Minnow_Segmented_Traits](https://github.com/hdr-bgnn/Minnow_Segmented_Traits)
+    * [BGNN_Core_Workflow](https://github.com/hdr-bgnn/BGNN_Core_Workflow)
+    * [drexel_metadata](https://github.com/hdr-bgnn/drexel_metadata)
+    * [drexel_metadata_formatter](https://github.com/hdr-bgnn/drexel_metadata_formatter)
+    * [Crop_image](https://github.com/hdr-bgnn/Crop_image)
+    * [BGNN-trait-segmentation](https://github.com/hdr-bgnn/BGNN-trait-segmentation)
 - [Phenoscape](https://github.com/phenoscape)
     * [Rphenoscape](https://rphenoscape.phenoscape.org/)
     * [Rphenoscate](https://github.com/uyedaj/rphenoscate)

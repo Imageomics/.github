@@ -27,7 +27,7 @@ Due to the history (see above) and highly collaborative and cross-disciplinary n
     * [Rphenoscape](https://rphenoscape.phenoscape.org/)
     * [Rphenoscate](https://github.com/uyedaj/rphenoscate)
     * [Phenoscape KB API](https://github.com/phenoscape/phenoscape-kb-services)
-    * ...
+    * [Phenex](https://github.com/phenoscape/Phenex)
 - [Tulane University Biodiversity Research Institute (TUBRI)](https://github.com/tubri)
     * [API](https://github.com/tubri/Fish-AIR_API) for [Fish-AIR](http://fishair.org)
     * ...

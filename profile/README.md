@@ -11,3 +11,14 @@ You can find a full mission, vision, and abstract under the [Imageomics website'
 ## History
 
 The inception and research of the Imageomics Institute builds heavily on the "Biology-Guided Neural Networks for Discovering Phenotypic Traits" (BGNN) project, also funded by the US National Science Foundation. BGNN itself built in part on the [Phenoscape](https://phenoscape.org) project (funded by NSF multiple times), which started in 2007 and was incubated at the NSF-funded National Evolutionary Synthesis Center (NESCent).
+
+## Code repositories overview
+
+Due to the history (see above) and highly collaborative and cross-disciplinary nature of the Institute, important software products and other code repositories are distributed over several organizations in GitHub, in addition to the ones found here. The following gives an overview and useful links.
+
+- [BGNN](https://github.com/hdr-bgnn)
+    * ...
+- [Phenoscape](https://github.com/phenoscape)
+    * [Rphenoscape](https://rphenoscape.phenoscape.org/)
+    * ...
+- ...

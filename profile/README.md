@@ -31,4 +31,7 @@ Due to the history (see above) and highly collaborative and cross-disciplinary n
 - [Tulane University Biodiversity Research Institute (TUBRI)](https://github.com/tubri)
     * [API](https://github.com/tubri/Fish-AIR_API) for [Fish-AIR](http://fishair.org)
     * ...
-- ...
+- [SlicerMorph](https://github.com/SlicerMorph/SlicerMorph#readme)
+    * [SlicerMEMOS](https://github.com/Slicermorph/SlicerMEMOs)
+- [DeepBryo](https://github.com/agporto/Deepbryo)
+- [ml-morph](https://github.com/agporto/ml-morph)

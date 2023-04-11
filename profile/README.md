@@ -30,7 +30,7 @@ Due to the history (see above) and highly collaborative and cross-disciplinary n
     * [Phenex](https://github.com/phenoscape/Phenex)
 - [Tulane University Biodiversity Research Institute (TUBRI)](https://github.com/tubri)
     * [API](https://github.com/tubri/Fish-AIR_API) for [Fish-AIR](http://fishair.org)
-    * ...
+    * [Trait Extraction](https://github.com/tubri/trait_extraction)
 - [SlicerMorph](https://github.com/SlicerMorph/SlicerMorph#readme)
     * [SlicerMEMOS](https://github.com/Slicermorph/SlicerMEMOs)
 - [DeepBryo](https://github.com/agporto/Deepbryo)

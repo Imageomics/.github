@@ -16,6 +16,8 @@ The inception and research of the Imageomics Institute builds heavily on the "Bi
 
 Due to the history (see above) and highly collaborative and cross-disciplinary nature of the Institute, important software products and other code repositories are distributed over several organizations in GitHub, in addition to the ones found here. The following gives an overview and useful links.
 
+### Imageomics Institute
+
 - [BGNN](https://github.com/hdr-bgnn)
     * [Minnow_Segmented_Traits](https://github.com/hdr-bgnn/Minnow_Segmented_Traits)
     * [BGNN_Core_Workflow](https://github.com/hdr-bgnn/BGNN_Core_Workflow)
@@ -31,7 +33,11 @@ Due to the history (see above) and highly collaborative and cross-disciplinary n
 - [Tulane University Biodiversity Research Institute (TUBRI)](https://github.com/tubri)
     * [API](https://github.com/tubri/Fish-AIR_API) for [Fish-AIR](http://fishair.org)
     * [Trait Extraction](https://github.com/tubri/trait_extraction)
-- [SlicerMorph](https://github.com/SlicerMorph/SlicerMorph#readme)
+- [Maga Lab](https://www.seattlechildrens.org/research/centers-programs/developmental-biology-regenerative-medicine/labs/maga-lab/) / [SlicerMorph](https://github.com/SlicerMorph/SlicerMorph#readme)
     * [SlicerMEMOS](https://github.com/Slicermorph/SlicerMEMOs)
-- [DeepBryo](https://github.com/agporto/Deepbryo)
-- [ml-morph](https://github.com/agporto/ml-morph)
+
+### Institute collaborators
+
+- [Porto Lab](https://agporto.github.io)
+    * [DeepBryo](https://github.com/agporto/Deepbryo)
+    * [ml-morph](https://github.com/agporto/ml-morph)

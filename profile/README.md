@@ -25,6 +25,7 @@ Due to the history (see above) and highly collaborative and cross-disciplinary n
     * [drexel_metadata_formatter](https://github.com/hdr-bgnn/drexel_metadata_formatter)
     * [Crop_image](https://github.com/hdr-bgnn/Crop_image)
     * [BGNN-trait-segmentation](https://github.com/hdr-bgnn/BGNN-trait-segmentation)
+    * [Phylo-NN](https://github.com/elhamod/phylonn)
 - [Phenoscape](https://github.com/phenoscape)
     * [Rphenoscape](https://rphenoscape.phenoscape.org/)
     * [Rphenoscate](https://github.com/uyedaj/rphenoscate)

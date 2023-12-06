@@ -4,7 +4,7 @@ The Imageomics Institute GitHub organization hosts the development and distribut
 
 ## What is the Imageomics Institute?
 
-The [Imageomics Institute](https://imageomics.org) is funded by the US National Science Foundation's Harnessing the Data Revolution (HDR) Institute program under [Award #2118240](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2118240) (Imageomics: A New Frontier of Biological Information Powered by Knowledge-Guided Machine Learning). It started in Oct 2021.
+The [Imageomics Institute](https://imageomics.org) is funded by the US National Science Foundation's Harnessing the Data Revolution (HDR) program under [Award #2118240](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2118240) (Imageomics: A New Frontier of Biological Information Powered by Knowledge-Guided Machine Learning). It started in Oct 2021.
 
 You can find a full mission, vision, and abstract under the [Imageomics website's About](https://imageomics.osu.edu/about) page. In short, the vision of the Institute is to "establish a new scientific field called **imageomics** that harnesses revolutions in data science and computing, as well as the rapidly expanding collections of biological image data, in order to accelerate biological understanding of phenotypic traits extracted from images of organisms."
 
@@ -42,3 +42,7 @@ Due to the history (see above) and highly collaborative and cross-disciplinary n
 - [Porto Lab](https://agporto.github.io)
     * [DeepBryo](https://github.com/agporto/Deepbryo)
     * [ml-morph](https://github.com/agporto/ml-morph)
+
+<br>
+
+*Disclaimer: Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.*

@@ -2,7 +2,7 @@
 
 The Imageomics Institute GitHub organization hosts the development and distribution of a collection of open-source ML tools used to study the biological information encoded in images and videos integrated with structured biological knowledge. All Imageomics code, data, models, and demos hosted on GitHub or Hugging Face are searchable through the [Imageomics Catalog](https://imageomics.github.io/catalog/):
 
-<img width="1506" height="729" alt="Screenshot of Imageomics Catalog, organized by most likes/stars" src="https://github.com/user-attachments/assets/91f7880f-7d94-4313-b79d-eb457ba26e96" />
+<a href="https://imageomics.github.io/catalog/" target="_blank"><img width="1506" height="729" alt="Screenshot of Imageomics Catalog, organized by most likes/stars" src="https://github.com/user-attachments/assets/91f7880f-7d94-4313-b79d-eb457ba26e96" /></a>
 
 ## What is the Imageomics Institute?
 

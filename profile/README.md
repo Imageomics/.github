@@ -11,7 +11,7 @@ The [Imageomics Institute](https://imageomics.org) is funded by the US National 
 You can find a full mission, vision, and abstract under the [Imageomics website's About](https://imageomics.osu.edu/about) page. In short, the vision of the Institute is to "establish a new scientific field called [**imageomics**](https://imageomics.github.io/Imageomics-guide/wiki-guide/Glossary-for-Imageomics/#imageomics) that harnesses revolutions in data science and computing, as well as the rapidly expanding collections of biological image data, in order to accelerate biological understanding of phenotypic traits extracted from images of organisms."
 
 <details>
-<summary>History behind the grant</summary>
+<summary>History leading to the Institute</summary>
 
 ## History
 

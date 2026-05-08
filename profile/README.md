@@ -10,6 +10,9 @@ The [Imageomics Institute](https://imageomics.org) is funded by the US National 
 
 You can find a full mission, vision, and abstract under the [Imageomics website's About](https://imageomics.osu.edu/about) page. In short, the vision of the Institute is to "establish a new scientific field called [**imageomics**](https://imageomics.github.io/Imageomics-guide/wiki-guide/Glossary-for-Imageomics/#imageomics) that harnesses revolutions in data science and computing, as well as the rapidly expanding collections of biological image data, in order to accelerate biological understanding of phenotypic traits extracted from images of organisms."
 
+<details>
+<summary>History behind the grant</summary>
+
 ## History
 
 The inception and research of the Imageomics Institute builds heavily on the "Biology-Guided Neural Networks for Discovering Phenotypic Traits" (BGNN) project, also funded by the US National Science Foundation. BGNN itself built in part on the [Phenoscape](https://phenoscape.org) project (funded by NSF multiple times), which started in 2007 and was incubated at the NSF-funded National Evolutionary Synthesis Center (NESCent).
@@ -44,7 +47,7 @@ Due to the history (see above) and highly collaborative and cross-disciplinary n
 - [Porto Lab](https://agporto.github.io)
     * [DeepBryo](https://github.com/agporto/Deepbryo)
     * [ml-morph](https://github.com/agporto/ml-morph)
-
+</details>
 <br>
 
 *Disclaimer: Any opinions, findings and conclusions or recommendations expressed in the materials here are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.*
